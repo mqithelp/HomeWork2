@@ -10,11 +10,11 @@ public class Main {
             float myFloat = 0;
             double myDouble = 0;
             System.out.println("Значение переменной myInt с типом int равно " + myInt);
-            System.out.println("Значение переменной myByte с типом int равно " + myByte);
-            System.out.println("Значение переменной myShort с типом int равно " + myShort);
-            System.out.println("Значение переменной myLong с типом int равно " + myLong);
-            System.out.println("Значение переменной myFloat с типом int равно " + myFloat);
-            System.out.println("Значение переменной myDouble с типом int равно " + myDouble);
+            System.out.println("Значение переменной myByte с типом byte равно " + myByte);
+            System.out.println("Значение переменной myShort с типом short равно " + myShort);
+            System.out.println("Значение переменной myLong с типом long равно " + myLong);
+            System.out.println("Значение переменной myFloat с типом float равно " + myFloat);
+            System.out.println("Значение переменной myDouble с типом double равно " + myDouble);
         }
         System.out.println("==[ Task 2 ]==");
         {
